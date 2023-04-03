@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "nombre": "Andromeda",
+        "precio": 49000,
+        "img": "../images/modelos/Andromeda.png",
+        "cantidad": 1
+    },
+    {
+        "id":2,
+        "nombre": "Teleport",
+        "precio": 49000,
+        "img": "../images/modelos/Teleport.png",
+        "cantidad": 1
+    },
+    {
+        "id":3,
+        "nombre": "Nautilus",
+        "precio": 45000,
+        "img": "../images/modelos/Nautilus.png",
+        "cantidad": 1
+    },
+    {
+        "id":4,
+        "nombre": "Saturno",
+        "precio": 45000,
+        "img": "../images/modelos/Saturno.png",
+        "cantidad": 1
+    }
+]
